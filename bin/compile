@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 echo $@
 echo "third param======================"
-cat $3
+ps aux
 echo "env=============================="
 env
