@@ -1,8 +1,4 @@
 #!/usr/bin/env bash
 echo $@
-ls -lah /app/tmp/repo.git
-ls -lah /app/tmp
-echo "third param======================"
-ps aux
 echo "env=============================="
 env
